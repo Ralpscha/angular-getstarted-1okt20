@@ -15,7 +15,7 @@ export class ProductListComponent {
   }
 
   onNotify() {
-    window.alert()
+    window.alert('You will be notified when the product goes on sale')
   }
 
 }
